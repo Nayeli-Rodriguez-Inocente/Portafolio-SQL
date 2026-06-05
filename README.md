@@ -1,2 +1,2 @@
-# Ejercicios-SQL
-Consultas en SQL
+
+20 consultas con las operaciones de agregación
